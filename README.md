@@ -59,7 +59,7 @@ The goal is to assess the effectiveness of the MOMENT model in predicting stock 
 
 ## Results
 
-After conducting 75 iterations for each forecasting horizon and fine-tuning method, we obtained the following results:
+After conducting 75 epochs for each forecasting horizon and fine-tuning method, we obtained the following results:
 | Forecast Horizon | Head-only Fine Tuning | Full Fine Tuning |
 |------------------|-----------------------|------------------|
 |                  | MSE       | MAE       | MSE       | MAE       |
